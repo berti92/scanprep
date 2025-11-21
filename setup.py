@@ -23,7 +23,7 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        'numpy==1.26.1',
+        'numpy==1.26.2',
         'pillow==10.1.0',
         'pymupdf==1.23.5',
         'pyzbar==0.1.9'
